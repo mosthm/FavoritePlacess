@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FavoritePlacess</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="yes">بله</string>
+    <string name="no">خیر</string>
+    <string name="add_favorite">آیا می خواهی %S را به علاقه مندی های مکانت اضافه کنی؟</string>
+</resources>
